@@ -47,7 +47,7 @@ cd QACloudCamp
 ```
 Создайте образ:
 ```
-docker build -t myapp 
+docker build -t myapp .
 ```
 Запустите:
 ```
