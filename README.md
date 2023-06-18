@@ -11,9 +11,8 @@
 [Dockerfile](https://github.com/shuygena/QACloudCamp/blob/main/Dockerfile)
 
 
-:bulb: Инструкции для unix-систем!
-
 ## :link: Загрузка и запуск проекта
+>:bulb: Инструкции для unix-систем
 
 Склонируйте репозиторий:
 ```
