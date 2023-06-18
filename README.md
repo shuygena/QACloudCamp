@@ -10,7 +10,11 @@
 3. Автоматизация тестирования API. Часть 2  
 [Dockerfile](https://github.com/shuygena/QACloudCamp/blob/main/Dockerfile)
 
+
+:bulb: Инструкции для unix-систем!
+
 ## :link: Загрузка и запуск проекта
+
 Склонируйте репозиторий:
 ```
 git clone https://github.com/shuygena/QACloudCamp QACloudCamp
@@ -47,11 +51,11 @@ cd QACloudCamp
 ```
 Создайте образ:
 ```
-docker build -t myapp .
+docker build -t qapp .
 ```
 Запустите:
 ```
-docker run myapp 
+docker run qapp 
 ```
  
 
