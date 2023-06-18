@@ -3,11 +3,11 @@
 
 ## :clipboard: Содержание
 
-1. Процесс тестирования нового функционала
+1. Процесс тестирования нового функционала  
 [Стратегия тестирования](https://github.com/shuygena/QACloudCamp/blob/main/Test_strategy.md)
-2. Автоматизация тестирования API. Часть 1
+2. Автоматизация тестирования API. Часть 1  
 [Тесты](https://github.com/shuygena/QACloudCamp/blob/main/tests/test_api.py)
-3. Автоматизация тестирования API. Часть 2
+3. Автоматизация тестирования API. Часть 2  
 [Dockerfile](https://github.com/shuygena/QACloudCamp/blob/main/Dockerfile)
 
 ## :link: Загрузка и запуск проекта
